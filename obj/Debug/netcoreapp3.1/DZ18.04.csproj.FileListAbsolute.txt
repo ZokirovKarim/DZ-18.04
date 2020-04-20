@@ -1,0 +1,13 @@
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.exe
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.deps.json
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.runtimeconfig.json
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.runtimeconfig.dev.json
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.dll
+C:\projects\DZ18.04\DZ18.04\bin\Debug\netcoreapp3.1\DZ18.04.pdb
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.csprojAssemblyReference.cache
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.csproj.CoreCompileInputs.cache
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.AssemblyInfoInputs.cache
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.AssemblyInfo.cs
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.dll
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.pdb
+C:\projects\DZ18.04\DZ18.04\obj\Debug\netcoreapp3.1\DZ18.04.genruntimeconfig.cache
